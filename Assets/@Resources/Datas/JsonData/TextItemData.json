@@ -1,0 +1,44 @@
+{
+    "TextItems":[
+        {
+            "Id":1050000001,
+            "Text":"Bee.sprite",
+            "SText":"Bee",
+            "AText": "1",
+            "PosX":0,
+            "PosY":0
+        },
+        {
+            "Id":1050000002,
+            "Text":"Pencil.sprite",
+            "SText":"Pencil",
+            "AText": "2",
+            "PosX":0,
+            "PosY":0
+        },
+        {
+            "Id":1050000003,
+            "Text":"Snail.sprite",
+            "SText":"Snail",
+            "AText": "3",
+            "PosX":0,
+            "PosY":0
+        },
+        {
+            "Id":1050000004,
+            "Text":"ah",
+            "SText":"ah",
+            "AText": "1",
+            "PosX":0,
+            "PosY":0
+        },
+        {
+            "Id":1050000005,
+            "Text":"aah",
+            "SText":"ah",
+            "AText": "1",
+            "PosX":0,
+            "PosY":0
+        }
+    ]
+}

@@ -1,0 +1,832 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: cbedc817624431c45b3bce1968c0cca6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2738272559104
+    m_Localized: Korean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2904836759552
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2908032819200
+    m_Localized: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22807027343360
+    m_Localized: Choose your language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908731863785472
+    m_Localized: Touch to Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908731998003200
+    m_Localized: Chart 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908731998003201
+    m_Localized: Chart 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908731998003202
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3908731998003203
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027030831104
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027139883008
+    m_Localized: Let's learn Hangeul Chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660224
+    m_Localized: K-Geul vowel letter chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660225
+    m_Localized: K-Geul consonant letter chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660226
+    m_Localized: Consonant 19 + Vowel 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660227
+    m_Localized: Consonant 19 + Two Vowel 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660228
+    m_Localized: Down Consonant 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660229
+    m_Localized: Creation Principle of Consonant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660230
+    m_Localized: Creation principle of Consonant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660231
+    m_Localized: K-Geul consonant chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660232
+    m_Localized: Have All Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660233
+    m_Localized: Hangul is an excellent character that can express any sound in the
+      world because it is a combination of consonants and vowels that can accurately
+      indicate pronunciation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660234
+    m_Localized: learning a special principle recognized by the state
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660235
+    m_Localized: 3 patents on Hangul phonics learning methods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660236
+    m_Localized: A fun Korean learning experience with the musical scale!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660237
+    m_Localized: The letters and vowels of Hangul are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660238
+    m_Localized: Secrets of K-geul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660239
+    m_Localized: Let's learn the Hangeul Chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660240
+    m_Localized: Greatness of Hangeul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660241
+    m_Localized: Creation principle of vowel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660242
+    m_Localized: Creation principle of consonant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660243
+    m_Localized: Create an account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660244
+    m_Localized: NAVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660245
+    m_Localized: KAKAO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660246
+    m_Localized: "ETC\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660247
+    m_Localized: Do you have an account?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660248
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660249
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660250
+    m_Localized: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660251
+    m_Localized: "Enter ID\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660252
+    m_Localized: PW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660253
+    m_Localized: "Enter Password\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660254
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660255
+    m_Localized: 1,2,3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660256
+    m_Localized: Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660257
+    m_Localized: 123123@naver.com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660258
+    m_Localized: Choose your level to start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660259
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660260
+    m_Localized: WORDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660261
+    m_Localized: CONVERSATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660262
+    m_Localized: Creation principle of vowel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660263
+    m_Localized: K-Geul vowel letter chart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660264
+    m_Localized: Next Section
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660265
+    m_Localized: Jump to Next Section
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660266
+    m_Localized: Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660267
+    m_Localized: Activity1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660268
+    m_Localized: Chart Three
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660269
+    m_Localized: Consonant One
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660270
+    m_Localized: Consonant Two
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660271
+    m_Localized: the excellence of Hangul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660272
+    m_Localized: Premium Membership
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660273
+    m_Localized: My Page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660274
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660275
+    m_Localized: Vowel One
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660276
+    m_Localized: Vowel Two
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962027156660277
+    m_Localized: Creation Principle of Vowel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967482662707200
+    m_Localized: Lesson
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967482784342016
+    m_Localized: Start +10XP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3972152957296640
+    m_Localized: Step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985148123242496
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4255981194403840
+    m_Localized: Check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4315430378496000
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4315579087544320
+    m_Localized: Very Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4315747224608768
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4325809594785792
+    m_Localized: Wrong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306760015872
+    m_Localized: Section 1. Combination of consonants and vowels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233600
+    m_Localized: Learn the basics and sentences for simple conversations, and then
+      Bla bla bla bla barba-
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233601
+    m_Localized: Section 2. Combination of consonants and vowels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233602
+    m_Localized: Learn the basics and sentences for simple conversations, and then
+      Bla bla bla bla barba-
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233603
+    m_Localized: Section 3. Combination of consonants and vowels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233604
+    m_Localized: Learn the basics and sentences for simple conversations, and then
+      Bla bla bla bla barba-
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233605
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233606
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233607
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233608
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233609
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233610
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233611
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233612
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233613
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233614
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233615
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233616
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233617
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233618
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233619
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233620
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233621
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233622
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233623
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233624
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233625
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233626
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233627
+    m_Localized: KOREAN ALPHABET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233628
+    m_Localized: One thousand, three letters, one letter, and ten letters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233629
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233630
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233631
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233632
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233633
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233634
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233635
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233636
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233637
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233638
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233639
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233640
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233641
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233642
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233643
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233644
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233645
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233646
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233647
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233648
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233649
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233650
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233651
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233652
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233653
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233654
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233655
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233656
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233657
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233658
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233659
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233660
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233661
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233662
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233663
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233664
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233665
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233666
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233667
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233668
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233669
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233670
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233671
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233672
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233673
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233674
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233675
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233676
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233677
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233678
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233679
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233680
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233681
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233682
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233683
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233684
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233685
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233686
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233687
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233688
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233689
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233690
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233691
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233692
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233693
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233694
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233695
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233696
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233697
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233698
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233699
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233700
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233701
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233702
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233703
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233704
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233705
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233706
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233707
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233708
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233709
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233710
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306894233711
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010816
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010817
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010818
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010819
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010820
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010821
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010822
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010823
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010824
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624306911010825
+    m_Localized: FirstUnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4726944944054272
+    m_Localized: Logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6450987778924544
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9353921055383552
+    m_Localized: Go To Next Section
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9354097421672448
+    m_Localized: Let's go to the next Section!!! Go GO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
